@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2d2bfb7c-b7bd-4c7e-a8c1-35f57c18dbbd">
+  <name>Simple1C</name>
+  <synonym>
+    <key>ru</key>
+    <value>Simple 1C</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Валюты</content>
+</mdclass:Subsystem>
